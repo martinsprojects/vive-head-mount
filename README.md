@@ -2,10 +2,9 @@
 Parametric 3d-printable welding headband mod to replace the original Vive head strap.
 
 <p float="center">
-	<img src="/docs/side.png" style="width: 150px">
-	<img src="/docs/front.png" style="width: 150px">
-	<img src="/docs/above.png" style="width: 150px">
-	<img src="/docs/rear.png" style="width: 150px">
+	<img src="/docs/front.png" width="30%" height="30%">
+	<img src="/docs/above.png" width="30%" height="30%">
+	<img src="/docs/rear.png" width="30%" height="30%">
 </p>
 
 ### What you need for this mod
